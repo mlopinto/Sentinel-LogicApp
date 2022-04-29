@@ -12,7 +12,7 @@ This image the highlevel steps taken to complete this task. Remember, the query 
 
 Each of the subsequent screenshots displays an example of the value / fields required.
 
-![image](https://user-images.githubusercontent.com/86690212/166007166-19c6d5a5-906e-4b0f-a628-b011088ba5e8.png)
+![image](https://user-images.githubusercontent.com/86690212/166008039-1ece126e-0e0d-4b38-a6b0-95aeb0dce4dc.png)
 
 ![image](https://user-images.githubusercontent.com/86690212/166007301-c6a5c7ff-185a-4760-937c-4900a127e8a8.png)
 
