@@ -7,4 +7,5 @@ In this example, the logic app will read the incident, grab the IP addresses ass
 Note: functionality exist to pull other entity types such as URLs, hostnames, etc. In addition, any column in the "SecurityAlert" table added to the query so it is outputed to the comments. 
 
 
+![image](https://user-images.githubusercontent.com/86690212/166006516-60d55aca-944f-474b-97ae-cb89dc0e67af.png)
 
