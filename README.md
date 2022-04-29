@@ -6,10 +6,12 @@ In this example, the logic app will read the incident, grab the IP addresses ass
 
 Note: functionality exist to pull other entity types such as URLs, hostnames, etc. In addition, any column in the "SecurityAlert" table added to the query so it is outputed to the comments. 
 
-This image the highlevel steps taken to complete this task. Remember, the query will need to be crafted for your specific use case. I do recommend making the query very specific so you don't exceed the comment limit of 30,000.  
+This image the highlevel steps taken to complete this task. Remember, the query will need to be crafted for your specific use case. I do recommend making the query very specific so you don't exceed the comment limit of 30,000.
+
 ![image](https://user-images.githubusercontent.com/86690212/166006516-60d55aca-944f-474b-97ae-cb89dc0e67af.png)
 
 Each of the subsequent screenshots displays an example of the value / fields required.
+
 ![image](https://user-images.githubusercontent.com/86690212/166007166-19c6d5a5-906e-4b0f-a628-b011088ba5e8.png)
 
 ![image](https://user-images.githubusercontent.com/86690212/166007301-c6a5c7ff-185a-4760-937c-4900a127e8a8.png)
